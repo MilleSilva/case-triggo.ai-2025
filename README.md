@@ -70,7 +70,9 @@ pip install -r requirements.txt
 ## 📁 Estrutura do Repositório
 
 ├── Case_técnico_Trainee_triggo_ai.ipynb
+
 ├── README.md
+
 ├── requirements.txt
 
 ## 📝 Conclusões
