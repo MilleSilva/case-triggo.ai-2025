@@ -7,7 +7,7 @@ Este repositório contém a solução desenvolvida para o Teste Técnico do Prog
 
 Projeto desenvolvido como parte do processo seletivo do Programa Trainee 2025 da triggo.ai, com foco em Engenharia de Dados: Analisar o dataset e extrair insights estratégicos para resolver desafios práticos de dados, como limpeza, visualização, modelagem e segmentação, visando apoiar decisões de negócios em uma empresa de e-commerce.
 
-## 🧠 O que foi desenvolvido
+## 🔍 O que foi desenvolvido
 
 O notebook contém as seguintes etapas:
 
@@ -68,12 +68,11 @@ pip install -r requirements.txt
 4. Execute o notebook Case_técnico_Trainee_triggo_ai.ipynb localmente ou via Google Colab.
 
 ## 📁 Estrutura do Repositório
-
+```
 ├── Case_técnico_Trainee_triggo_ai.ipynb
-
 ├── README.md
-
 ├── requirements.txt
+```
 
 ## 📝 Conclusões
 Foram identificados padrões relevantes de comportamento de clientes, sazonalidade nas vendas, além de categorias e estados com maior rentabilidade. O modelo preditivo de atraso e a segmentação de clientes oferecem suporte a ações estratégicas e personalizadas no e-commerce.
